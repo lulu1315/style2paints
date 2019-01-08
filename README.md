@@ -1,6 +1,6 @@
 # Style2paint 
 
-![result](./result,jpg)
+![result](./result.jpg)
 
 this is a cli version of style2paint.
 
