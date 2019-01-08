@@ -16,3 +16,9 @@ requirements: (needs python 3.6)
   pip3 install h5py
   pip3 install opencv-python
 ```
+
+usage:
+
+```
+python3 mangastyle.py gpu sketch_image style_image color_hint_image version[1,2,3,4] use_denoise[0,1] output_image
+```
